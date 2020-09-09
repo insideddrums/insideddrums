@@ -9,9 +9,9 @@
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 
-![GitHub Logo](/insideddrums.jpg) ![GitHub Logo](/insideddrums2.jpg)
+  
 
-First Header | Second Header
+<img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums.jpg" width="200" > | <img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums2.jpg" width="200" >
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
