@@ -23,8 +23,8 @@
 
 #### Algumas formas de contribuir: 
 * TED (entre em contato pelo whatsapp +55 84 99214-0054)
-* PicPay https://picpay.me/sueliton.santos 
-   * <img src="https://github.com/insideddrums/insideddrums/blob/master/picpay.jpg" width="200" >
+* PicPay [PicPay](https://picpay.me/sueliton.santos)  ![PicPay](/picpay.jpg)
+  
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 * Compre as versões premium (futuras) 
