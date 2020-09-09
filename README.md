@@ -11,8 +11,6 @@
 
   
 
-<img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums.jpg" width="200" > | <img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums2.jpg" width="200" >
+<img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums.jpg" width="400" > | <img src="https://github.com/insideddrums/insideddrums/blob/master/insideddrums2.jpg" width="400" >
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
