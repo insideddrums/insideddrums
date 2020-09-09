@@ -9,5 +9,10 @@
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 
-![GitHub Logo](/insideddrums.jpg) | ![GitHub Logo](/insideddrums2.jpg)
+![GitHub Logo](/insideddrums.jpg) ![GitHub Logo](/insideddrums2.jpg)
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
