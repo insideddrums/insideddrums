@@ -9,5 +9,5 @@
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 
-![GitHub Logo](/insideddrums.jpg) ![GitHub Logo](/insideddrums2.jpg)
+![GitHub Logo](/insideddrums.jpg) | ![GitHub Logo](/insideddrums2.jpg)
 
