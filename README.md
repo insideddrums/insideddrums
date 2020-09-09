@@ -5,7 +5,7 @@
 #### Algumas formas de contribuir: 
 * Deposito em conta(entre em contato pelo whatsapp +55 84 99214-0054)
 * PicPay 
-   * ![GitHub Logo](/picpay.jpg)
+   * ![GitHub Logo](/picpay.jpg | width=100)
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 
