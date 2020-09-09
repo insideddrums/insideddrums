@@ -34,5 +34,6 @@
 
 ### Qualquer duvida, entre em contato pelos seguintes canais:
 * Whatsapp: +55 84 992140054
-* Facebook: https://www.facebook.com/suelliton.santos.silva/
+* Facebook: [https://www.facebook.com/suelliton.santos.silva/](https://www.facebook.com/suelliton.santos.silva/)
+* Grupo: [https://www.facebook.com/groups/316387586287512](https://www.facebook.com/groups/316387586287512)
 
