@@ -10,8 +10,8 @@
 
   
 
-![GitHub Logo](/insideddrums.png) | ![GitHub Logo](/insideddrums2.png)
------------- | -------------
+![Aba channels](/insideddrums.png) | ![Aba sounds](/insideddrums2.png)
+
 ###### A construção de um software como este é demasiadamente trabalhosa, considere doar para o projeto continuar vivo.
 
 #### Algumas formas de contribuir: 
