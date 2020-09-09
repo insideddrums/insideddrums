@@ -2,4 +2,4 @@
 
 #### this project aims to build an electronic drum controller and synthesizer using Arduino as a microcontroller.
 
-![GitHub Logo](/insideddrums.png)
+![GitHub Logo](/insideddrums.jpeg)
