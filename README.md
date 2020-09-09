@@ -5,7 +5,7 @@
 #### Algumas formas de contribuir: 
 * Deposito em conta(entre em contato pelo whatsapp +55 84 99214-0054)
 * PicPay 
-   * ![GitHub Logo](/picpay.jpg | width=100)
+   * ![GitHub Logo](/picpay.jpg | width=100) ![Alt Text](https://github.com/insideddrums/insideddrums/blob/master/picpay.jpg?v=4&s=200)
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
 
