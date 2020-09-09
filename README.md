@@ -23,7 +23,8 @@
 
 #### Algumas formas de contribuir: 
 * TED (entre em contato pelo whatsapp +55 84 99214-0054)
-* PicPay [PicPay](https://picpay.me/sueliton.santos)  ![PicPay](/picpay.jpg)
+* PicPay [https://picpay.me/sueliton.santos](https://picpay.me/sueliton.santos)  
+    * ![PicPay](/picpay.jpg)
   
 * Entre no grupo do facebook
    * https://www.facebook.com/groups/316387586287512
