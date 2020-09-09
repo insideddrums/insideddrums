@@ -10,7 +10,7 @@
 
   
 
-![Aba channels](/insideddrums.png)  ![Aba sounds](/insideddrums2.png)
+![Aba channels](/insideddrums.jpg) <addr> ![Aba sounds](/insideddrums2.jpg)
 
 ###### A construção de um software como este é demasiadamente trabalhosa, considere doar para o projeto continuar vivo.
 
