@@ -2,11 +2,16 @@
 
 #### Este projeto visa a construção de um controlador e sintetizador de bateria para baterias eletrônicas que utilizam Arduino Mega2560.
 ##### O projeto esta em desenvolvimento, bugs são esperados, por isso resolvi disponibilizar a versão beta para testes. 
-#### Motivação:
-###### Softwares atualmente usados são desatualizados sem perspectiva de melhorias, muito codigo solto, codificação suja para varios projetos, necessidade de baixar muitos softwares, gambiarras e pirataria de software.
-#### Objetivo:
-###### Desenvolver uma ferramenta de software que facilite a construção de baterias eletronicas utilizando Arduíno Mega2560 sem a necessidade de outros softwares MIDI e IDEs.
-  
+
+### Motivação:
+##### Softwares atualmente usados são desatualizados sem perspectiva de melhorias, muito codigo solto, codificação suja para varios projetos, necessidade de baixar muitos softwares, gambiarras e pirataria de software.
+
+### Objetivo:
+##### Desenvolver uma ferramenta de software que facilite a construção de baterias eletronicas utilizando Arduíno Mega2560 sem a necessidade de outros softwares MIDI e IDEs.
+
+### Funcionamento: 
+##### O insideddrums possui 2 modos de operação: insideddrums e midi, o primeiro utiliza sintetizador próprio e arquivos soundfonts para geração de sons, o segundo emite sinais midi para uma porta específica(loopmidi) que pode ser linkada com qualquer outro plugin vst ou daw. 
+
 ### Aba Channels
 ![Aba channels](/insideddrums.jpg) 
 
