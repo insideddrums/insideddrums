@@ -20,7 +20,7 @@
 ![Aba tools](/insideddrums4.jpg)
 
 ### Download windows x64
-[insideddrums setup](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU)
+* [insideddrums setup](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU)
 
 
 #### A construção de um software como este é demasiadamente trabalhosa, considere doar para o projeto continuar vivo.
