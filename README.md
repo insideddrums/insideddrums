@@ -1,7 +1,8 @@
 # Insideddrums
 
-#### Este projeto visa a construção de um controlador e sintetizador de bateria para baterias eletrônicas que utilizam Arduino Mega2560.
-##### O projeto esta em desenvolvimento, bugs são esperados, por isso resolvi disponibilizar a versão beta para testes. 
+#### Este projeto visa a construção de um controlador e sintetizador para baterias eletrônicas que utilizam Arduino Mega2560.
+
+##### O projeto esta em desenvolvimento, bugs são esperados, por isso resolvi disponibilizar a versão beta para testes, reportem os bugs please. 
 
 ### Motivação:
 ##### Softwares atualmente usados são desatualizados sem perspectiva de melhorias, muito codigo solto, codificação suja para varios projetos, necessidade de baixar muitos softwares, gambiarras e pirataria de software.
