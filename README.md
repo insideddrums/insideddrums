@@ -26,7 +26,8 @@
 ![Aba tools](/insideddrums4.jpg)
 
 ### Download windows x64
-* [Insideddrums setup](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU) senha: beta
+* [Mega](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU) senha: beta
+* [Mediafire](http://www.mediafire.com/file/clp6g4j2parur9r/insideddrums_setup.exe/file)
 * [Pack de soundfonts](https://mega.nz/file/z0lzkShD#gKETX4ZgRHLex9FoIcc2ny3CEM4QFbsZxC9FVNeWBR4)
 
 
