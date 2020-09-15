@@ -34,7 +34,6 @@
 #### A construção de um software como este é demasiadamente trabalhosa, considere doar para o projeto continuar vivo.
 
 ### Algumas formas de contribuir: 
-* TED (entre em contato pelo whatsapp +55 84 99214-0054)
 * PicPay [https://picpay.me/sueliton.santos](https://picpay.me/sueliton.santos)  
     * ![PicPay](/picpay.jpg)
   
