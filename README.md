@@ -15,15 +15,19 @@
 
 ### Aba Channels
 ![Aba channels](/insideddrums.jpg) 
+* Aba de adição e configuração de canais e propriedades.
 
 ### Aba Sounds
 ![Aba sounds](/insideddrums2.jpg)
+* Aba de adição e configuração de soundfonts e presets responsaveis por gerar os sons.
 
 ### Aba Settings
 ![Aba settings](/insideddrums3.jpg)
+* Aba de configuração geral e das notas do controlador de Hi Hat.
 
 ### Aba Tools
 ![Aba tools](/insideddrums4.jpg)
+* Aba com funções auxiliares.
 
 ### Download windows x64
 * [Mega](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU) senha: beta
@@ -38,8 +42,7 @@
     * ![PicPay](/picpay.jpg)
   
 * Entre no grupo do facebook
-   * https://www.facebook.com/groups/316387586287512
-* Compre as versões premium (futuras) 
+   * https://www.facebook.com/groups/316387586287512 
 * Divulgue
 * Dê sugestões de melhoria
 
