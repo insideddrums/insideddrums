@@ -30,8 +30,8 @@
 * Aba com funções auxiliares.
 
 ### Download windows x64
-* [Mega](https://mega.nz/file/ehsj0bDT#TVuyvel4xUiqBQUkMILtxezBI5p8htbkS91-NGH_HaU) senha: beta
-* [Mediafire](http://www.mediafire.com/file/clp6g4j2parur9r/insideddrums_setup.exe/file) senha: beta
+* [Mega](https://mega.nz/file/Wg1HSQRK#YCxZn4ice2yuI9r3I79sUyi4CeT7jRmx1TIJGlH_7kM) 
+* [Mediafire](http://www.mediafire.com/file/zzdvi2f1ffx1m3d/insideddrums-beta-p1.exe/file) 
 * [Pack de soundfonts](https://mega.nz/file/z0lzkShD#gKETX4ZgRHLex9FoIcc2ny3CEM4QFbsZxC9FVNeWBR4)
 
 
