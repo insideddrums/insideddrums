@@ -13,6 +13,9 @@
 ### Funcionamento: 
 ##### O insideddrums possui 2 modos de operação: insideddrums e midi, o primeiro utiliza sintetizador próprio e arquivos soundfonts para geração de sons, o segundo emite sinais midi para uma porta específica(loopmidi) que pode ser linkada com qualquer outro plugin vst ou daw. 
 
+###Review 
+[review](https://www.facebook.com/100003909739943/videos/1903550353118604/?extid=wpFzuXRyiJPjCfPz)
+
 ### Aba Channels
 ![Aba channels](/insideddrums.jpg) 
 * Aba de adição e configuração de canais e propriedades.
