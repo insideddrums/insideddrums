@@ -20,9 +20,6 @@
 ![Aba channels](/insideddrums.jpg) 
 * Aba de adição e configuração de canais e propriedades.
 
-### Aba Sounds
-![Aba sounds](/insideddrums2.jpg)
-* Aba de adição e configuração de soundfonts e presets responsaveis por gerar os sons.
 
 ### Aba Settings
 ![Aba settings](/insideddrums3.jpg)
@@ -33,9 +30,7 @@
 * Aba com funções auxiliares.
 
 ### Download windows x64
-* [Mega](https://mega.nz/file/Wg1HSQRK#YCxZn4ice2yuI9r3I79sUyi4CeT7jRmx1TIJGlH_7kM) 
-* [Mediafire](http://www.mediafire.com/file/zzdvi2f1ffx1m3d/insideddrums-beta-p1.exe/file) 
-* [Pack de soundfonts](https://mega.nz/file/z0lzkShD#gKETX4ZgRHLex9FoIcc2ny3CEM4QFbsZxC9FVNeWBR4)
+* [Mega](https://mega.nz/file/n5k1kSLQ#2YsKQ6TH_0poOOVvLh4B1-kQig5qwLJtmDlROgemzqA) 
 
 
 #### A construção de um software como este é demasiadamente trabalhosa, considere doar para o projeto continuar vivo.
